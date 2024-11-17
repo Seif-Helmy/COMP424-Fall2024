@@ -19,7 +19,6 @@ class StudentAgent(Agent):
     self.name = "StudentAgent"
 
 
-#Seif
   def step(self, chess_board, player, opponent):
     """
     Implement the step function of your agent here.
