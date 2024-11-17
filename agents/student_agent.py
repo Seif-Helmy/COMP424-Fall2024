@@ -18,6 +18,8 @@ class StudentAgent(Agent):
     super(StudentAgent, self).__init__()
     self.name = "StudentAgent"
 
+
+#Seif
   def step(self, chess_board, player, opponent):
     """
     Implement the step function of your agent here.
