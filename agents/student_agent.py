@@ -43,7 +43,7 @@ class StudentAgent(Agent):
     time_taken = time.time() - start_time
 
     print("My AI's turn took ", time_taken, "seconds.")
-    Print("test")
+    print("test")
 
     # Dummy return (you should replace this with your actual logic)
     # Returning a random valid move as an example
